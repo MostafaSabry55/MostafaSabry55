@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 - 📫 How to reach me:
   - Discord : the goat.#2543
