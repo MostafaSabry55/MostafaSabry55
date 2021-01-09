@@ -1,7 +1,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MostafaSabry55&show_icons=true&theme=radical)
 
 - 📫 How to reach me:
-  - Discord : the goat.#2543
+  - Discord : MS55#2543
   - Curseforge : Mostafa55
 
 - ⚡ Fun fact:
