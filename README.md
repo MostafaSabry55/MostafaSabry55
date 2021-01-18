@@ -2,6 +2,7 @@
 
 - 📫 How to reach me:
   - Discord : MS55#2543
+  - Reddit : u/Gumballxd5
   - Curseforge : Mostafa55
 
 - ⚡ Fun fact:
